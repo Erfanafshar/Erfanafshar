@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erfan Afshar
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning ML libraries
-- 💞️ I’m looking to collaborate on interesting ML projects
+- 👀 I’m interested in something
+- 🌱 I’m currently doing something
+- 💞️ I’m looking for a part-time job
 - 📫 reach me afshar.erfan@gmail.com
 
