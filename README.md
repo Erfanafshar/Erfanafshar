@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Erfan Afshar
-- 👀 I’m interested in something
-- 🌱 I’m currently doing something
-- 💞️ I’m looking for a part-time job
+- 👋 Hi, I’m Erfan
+- 👀 I’m interested in novel machine leraning application
+- 🌱 I’m currently strengthening my machine learning background
+- 💞️ I’m looking for a entry level job or internship.
 - 📫 reach me afshar.erfan@gmail.com
-
