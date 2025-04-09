@@ -23,15 +23,6 @@
 | 🔗 [NetWolf P2P System](https://github.com/Erfanafshar/netwolf) | Peer-to-peer file sharing system demonstrating distributed networking |
 | 🔗 [Cloud Data Dashboard](https://github.com/Erfanafshar/cloud-dashboard) | Real-time dashboard built with Dash, Flask, and PostgreSQL |
 
----
-
-## 📊 GitHub Stats
-
-![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erfanafshar&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfanafshar&layout=compact&theme=default)
-
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/erfanafshar)
