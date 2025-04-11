@@ -26,6 +26,6 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/erfanafshar)
+- [LinkedIn](https://www.linkedin.com/in/erfan-afshar/)
 - [GitHub](https://github.com/Erfanafshar)
 - [Email](mailto:your.email@example.com)
