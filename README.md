@@ -14,14 +14,15 @@
 
 ---
 
-## 🚀 Projects Worth Checking Out
+### 🚀 Projects Worth Checking Out
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [E-Commerce Web App](https://github.com/Erfanafshar/ecommerce-app) | Full-stack app with product listings, cart system, and database-backed checkout |
-| 🔗 [Java Download Manager](https://github.com/Erfanafshar/download-manager) | Multithreaded file downloader with pause/resume and UI progress tracking |
-| 🔗 [NetWolf P2P System](https://github.com/Erfanafshar/netwolf) | Peer-to-peer file sharing system demonstrating distributed networking |
-| 🔗 [Cloud Data Dashboard](https://github.com/Erfanafshar/cloud-dashboard) | Real-time dashboard built with Dash, Flask, and PostgreSQL |
+| 🔗 [Drone Anomaly Detection](https://github.com/Erfanafshar/anomaly-detection-drones) | ML-based anomaly detection system for drone sensor/actuator data to improve flight safety |
+| 🔗 [Face Image Retrieval](https://github.com/Erfanafshar/face-Image-retrieval) | Face search engine using MTCNN and deep learning; Python backend with HTML/JS frontend |
+| 🔗 [E-Commerce Store (MongoDB)](https://github.com/Erfanafshar/ecommerce-store) | E-commerce site with Python backend, MongoDB, and admin dashboard for product control |
+| 🔗 [Java Download Manager](https://github.com/Erfanafshar/download-manager) | Multithreaded file downloader with pause/resume, custom GUI, and persistent storage |
+
 
 ## 📫 Connect with Me
 
